@@ -1,6 +1,6 @@
-<!-- ![Image](./header.png) -->
-
 # Basket Swap
+
+![Image](./image.png)
 
 BasketSwap is a Dapp that is under development on Arbitrum with Stylus that enables users to easily exchange a basket of tokens for a basket of other tokens in a single, optimized transaction.Think of a tool that would allow you to easily convert your crypto holdings into stablecoins at the best prices at an urgent moment - that's BasketSwap.
 
